@@ -1,0 +1,11 @@
+# Ignore dependencies
+node_modules/
+
+# System files
+.DS_Store
+
+# Coverage files (if you use test coverage)
+coverage/
+
+# Environment files (if you ever add a .env)
+.env
